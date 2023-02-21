@@ -40,6 +40,16 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ** vet-clinic-database** is an educational project that I created to learn about postgresql.
 
+### Learning objectives
+
+> Build a relational database based on a real-life example.
+> Create tables in SQL.
+> Insert and query data in SQL.
+> Use database transactions.
+> Modify and delete data in SQL.
+> Prepare complex queries that answer analytical questions.
+
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -80,7 +90,14 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-> Install postgresql
+> To install PostgreSQL, first refresh your server’s local package index:
+  ```sh
+   sudo apt update
+  ```
+> Then, install the Postgres package along with a -contrib package that adds some additional utilities and functionality:
+  ```sh
+    sudo apt install postgresql postgresql-contrib
+  ```
 > Install pgAdmin
 
 ### Setup
@@ -93,7 +110,16 @@ Clone this repository to your desired folder:
   git clone git@github.com:belaymit/vet-clinic-database.git
 ```
 
-
+### Usage
+```sh
+    sudo -u postgres psql
+```
+```sh
+  \q   or   $   exit
+```
+```sh
+  \c <vet_clinic>
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
