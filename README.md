@@ -17,7 +17,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -51,6 +50,9 @@ This repository includes files with plain SQL that can be used to recreate a dat
 >   Use primary key & foreign key mechanism for joining tables.
 >   Query multiple tables.
 >   Prepare complex queries that answer analytical questions.
+>   Understand the different types of relationships between tables.
+>   Prepare complex queries that answer analytical questions.
+>   Use primary key & foreign key mechanism for joining tables.
 
 
 
@@ -76,13 +78,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -143,8 +138,7 @@ Clone this repository to your desired folder:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **Add Columns**
-- [ ] **Add Associations**
+- [ ] **Add More Relations**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,6 +178,11 @@ I would like to thank Microverse Community
 
 - PostgreSQL possesses robust feature sets including Multi-Version Concurrency Control (MVCC), point in time recovery, granular access controls, tablespaces, asynchronous replication, nested transactions, online/hot backups, a refined query planner/optimizer, and write ahead logging.
 
+- **What are SQL JOINs?**
+- SQL JOIN clauses are used to combine rows from two or more tables. Usually, tables are joined based on a related column between them, but you can also join tables that have no relationships. The term "SQL JOIN" is used to refer to a SQL query with the JOIN keyword. This is known as an explicit join. However, you can also join tables in SQL without using the JOIN keyword. This is known as an implicit join.
+
+- **What are the 4 types of joins in SQL?**
+- left, right, inner, and outer. In general, you'll only really need to use inner joins and left outer joins. Which join type you use depends on whether you want to include unmatched rows in your results: If you need unmatched rows in the primary table, use a left outer join.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
