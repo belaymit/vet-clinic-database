@@ -37,7 +37,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 # 📖 vet-clinic-database <a name="about-project"></a>
 
 
-** vet-clinic-database** is an educational project that I created to learn about postgresql.
+**vet-clinic-database** is an educational project that I created to learn about postgresql.
 
 ### Learning objectives
 
@@ -53,6 +53,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 >   Understand the different types of relationships between tables.
 >   Prepare complex queries that answer analytical questions.
 >   Use primary key & foreign key mechanism for joining tables.
+>   Understand what can impact database performance.
 
 
 
@@ -121,6 +122,9 @@ Clone this repository to your desired folder:
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Schema Diagram
+<img src="images/Schema_Diagram.png" width="500">
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -130,6 +134,12 @@ Clone this repository to your desired folder:
 - GitHub: [@githubhandle](https://github.com/belaymit)
 - Twitter: [@twitterhandle](https://twitter.com/2belamit)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/belay-birhanu-144ba714b/)
+
+
+👤 **Jules Edozie**
+
+- GitHub: [@githubhandle](https://github.com/julzedz)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jules-edozie-b59b94234/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
