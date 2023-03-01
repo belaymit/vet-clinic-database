@@ -136,7 +136,7 @@ Clone this repository to your desired folder:
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/belay-birhanu-144ba714b/)
 
 
-👤 **BJules Edozie**
+👤 **Jules Edozie**
 
 - GitHub: [@githubhandle](https://github.com/julzedz)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jules-edozie-b59b94234/)
