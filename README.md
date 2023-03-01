@@ -122,6 +122,9 @@ Clone this repository to your desired folder:
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Schema Diagram
+<img src="images/Schema_Diagram.png" width="500">
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
