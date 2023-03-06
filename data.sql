@@ -117,5 +117,6 @@ INSERT INTO visits (animals_id, vets_id, date_of_visit)
 	
 -- INSERT INTO owners (full_name, email) SELECT 'Owner ' || generate_series(1,2500000), 'owner_' || generate_series(1,2500000) || '@mail.com';
 
+
 -- Modification
 INSERT INTO owners (full_name, email) SELECT 'Owner ' || generate_series(1,5000000), 'owner_' || generate_series(1,5000000) || '@mail.com';
